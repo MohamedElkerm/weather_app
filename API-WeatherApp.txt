@@ -1,0 +1,11 @@
+My_API_Key = b6f5065cdbe0108cb467ad88a0e6ab7d
+
+
+current_weather_cairo = https://api.openweathermap.org/data/2.5/weather?q=cairon&appid=b6f5065cdbe0108cb467ad88a0e6ab7d
+
+5days_weather_cairo = https://api.openweathermap.org/data/2.5/forecast?q=cairo&appid=b6f5065cdbe0108cb467ad88a0e6ab7d
+
+ 
+
+
+

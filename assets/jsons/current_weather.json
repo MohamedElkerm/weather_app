@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -0.4505,
+    "lat": 49.2402
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 288.38,
+    "feels_like": 287.97,
+    "temp_min": 287.85,
+    "temp_max": 288.38,
+    "pressure": 1016,
+    "humidity": 77
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.03,
+    "deg": 0
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1654217648,
+  "sys": {
+    "type": 1,
+    "id": 6569,
+    "country": "FR",
+    "sunrise": 1654228806,
+    "sunset": 1654286405
+  },
+  "timezone": 7200,
+  "id": 3029178,
+  "name": "Cairon",
+  "cod": 200
+}
